@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7ff59cd-3ea9-448a-ac54-d083f5f2012d</dc:identifier>
+        <dc:title>«SparkFun Inventor’s Kit for Arduino» SIK Guide — Arduino Быстрый старт</dc:title>
+        <dc:creator opf:file-as="Vladimir" opf:role="aut">Vladimir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-11T17:56:56+00:00</dc:date>
+        <dc:language>rus</dc:language>
+        <meta content="{&quot;Vladimir&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-23T00:31:00+00:00" name="calibre:timestamp"/>
+        <meta content="«SparkFun Inventor’s Kit for Arduino» SIK Guide — Arduino Быстрый старт" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>

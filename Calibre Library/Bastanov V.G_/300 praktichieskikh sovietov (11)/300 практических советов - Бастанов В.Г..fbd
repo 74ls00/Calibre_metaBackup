@@ -1,0 +1,30 @@
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<description>
+		<title-info>
+			<book-title>300 практических советов</book-title>
+			<keywords></keywords>
+			<lang></lang>
+			<genre>study</genre>
+			<author>
+				<first-name></first-name>
+				<last-name>Бастанов В.Г.</last-name>
+				<middle-name></middle-name>
+				<nickname></nickname>
+				<email></email>
+				<home-page></home-page>
+			</author>
+			<annotation/>
+		</title-info>
+		<document-info>
+			<program-used>MyHomeLib 2.2.0.822</program-used>
+			<date>2016-01-09</date>
+			<version>1.0</version>
+		</document-info>
+		<publish-info>
+			<publisher></publisher>
+			<city></city>
+			<isbn></isbn>
+			<year></year>
+		</publish-info>
+	</description>
+</FictionBook>

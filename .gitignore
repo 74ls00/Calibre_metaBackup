@@ -1,0 +1,18 @@
+#Calibre_metaBackup
+
+Calibre/
+Calibre Settings/
+
+calibre-portable.exe
+
+*.djvu
+*.djv
+*.pdf
+*.zip
+*.rar
+*.7z
+*.doc
+*.fb2
+*.epub
+*.txt
+*.rtf
