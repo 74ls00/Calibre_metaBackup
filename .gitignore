@@ -3,6 +3,7 @@
 Calibre/
 Calibre Settings/
 
+git.txt
 calibre-portable.exe
 
 *.djvu
@@ -16,3 +17,4 @@ calibre-portable.exe
 *.epub
 *.txt
 *.rtf
+*.mht
