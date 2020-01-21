@@ -3,11 +3,12 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">837</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d9f5915d-041e-40c5-ae58-cdd90e981ef7</dc:identifier>
-        <dc:title>Вторая жизнь цветных кинескопов</dc:title>
+        <dc:title>Вторая жизнь цветных кинескопов (скан 2)</dc:title>
         <dc:creator opf:file-as="Адамович В.Н., Бриллиантов Д.П., Кочура Л.И." opf:role="aut">Адамович В.Н., Бриллиантов Д.П., Кочура Л.И.</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.48.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>ru</dc:language>
+        <dc:subject>кинескопы</dc:subject>
         <meta content="{&quot;Адамович В.Н., Бриллиантов Д.П., Кочура Л.И.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="Массовая радио библиотека" name="calibre:series"/>
         <meta content="1174" name="calibre:series_index"/>
