@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cecdbac3-caea-4278-869a-8ea8e650fb98</dc:identifier>
+        <dc:title>Высоковакуумные и газоразрядные приборы. Часть I</dc:title>
+        <dc:creator opf:file-as="Васильев Н.В. , Кершаков А.В." opf:role="aut">Васильев Н.В. , Кершаков А.В.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Васильев Н.В., Кершаков А.В. Высоковакуумные и газоразрядные приборы. Часть I (1948)&lt;/p&gt;
+&lt;p&gt;publ.lib.ru/ARCHIVES/V/VASIL'EV_Nikolay_Vladimirovich/_Vasil'ev_N.V..html&lt;/p&gt;
+&lt;p&gt;Военно-морская академия кораблестроения и вооружения имени А.Н. Крылова&lt;/p&gt;
+&lt;p&gt;Инж. Н.В. Васильев и инж. А.В. Кершаков&lt;/p&gt;
+&lt;p&gt;Высоковакуумные и газоразрядные приборы&lt;/p&gt;
+&lt;p&gt;Часть 1&lt;/p&gt;
+&lt;p&gt;Высоковакуумные и газоразрядные приборы отечественного производства&lt;/p&gt;
+&lt;p&gt;Под редакцией инженер-капитана 1 ранга В.И. Яковлева&lt;/p&gt;
+&lt;p&gt;Ленинград, 1948&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Васильев Н.В., Кершаков А.В. Высоковакуумные и газоразрядные приборы. В трех частях. / Под редакцией инженер-капитана 1 ранга В.И. Яковлева.&lt;/p&gt;
+&lt;p&gt;В первой части труда приведены технические данные высоковакуумных и газоразрядных приборов отечественного производства, во второй части - приборов производства США и в третьей части - приборов производства различных европейских стран.&lt;/p&gt;
+&lt;p&gt;Каждая часть труда содержит классификационные таблицы, таблицы основных параметров и типовых режимов работы, схемы цоколевок, чертежи внешнего вида приборов, таблицы заменяемости ламп и другие материалы.&lt;/p&gt;
+&lt;p&gt;Первая часть труда содержит, кроме того, статические и динамические характеристики приборов отечественного производства.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;КРАТКОЕ ОГЛАВЛЕНИЕ:&lt;/p&gt;
+&lt;p&gt;Предисловие редактора (V).&lt;/p&gt;
+&lt;p&gt;От авторов (VII).&lt;/p&gt;
+&lt;p&gt;Введение (IX).&lt;/p&gt;
+&lt;p&gt;Часть первая. ВЫСОКОВАКУУМНЫЕ И ГАЗОРАЗРЯДНЫЕ ПРИБОРЫ ОТЕЧЕСТВЕННОГО ПРОИЗВОДСТВА&lt;/p&gt;
+&lt;p&gt;I. Классификация детекторных, приемно-усилительных, генераторных, модуляторных, мощных усилительных и выпрямительных ламп (2).&lt;/p&gt;
+&lt;p&gt;II. Таблицы основных параметров и типовых режимов работы (10).&lt;/p&gt;
+&lt;p&gt;III. Схемы цоколевок ламп (117).&lt;/p&gt;
+&lt;p&gt;IV. Конструкция цоколей ламп (125).&lt;/p&gt;
+&lt;p&gt;V. Внешние виды ламп (129).&lt;/p&gt;
+&lt;p&gt;VI. Статические и динамические характеристики ламп (141).&lt;/p&gt;
+&lt;p&gt;VII. Таблицы заменяемости иностранных радиоламп на радиолампы отечественного производства (313).&lt;/p&gt;
+&lt;p&gt;Алфавитный указатель (333).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;-------------------------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Николай Владимирович Васильев, Анатолий Васильевич Кершаков&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>ru</dc:language>
+        <meta content="{&quot;Васильев Н.В. , Кершаков А.В.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2021-06-24T12:16:22.573000+00:00" name="calibre:timestamp"/>
+        <meta content="Высоковакуумные и газоразрядные приборы. Часть I" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#sermanual" content="{&quot;colnum&quot;: 3, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#sermanual&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Документация&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;#value#&quot;: null, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 29, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;sermanual&quot;}"/>
+        <meta name="calibre:user_metadata:#moiknigi" content="{&quot;colnum&quot;: 6, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#moiknigi&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Мои Книги&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_6&quot;, &quot;#value#&quot;: null, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 25, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;moiknigi&quot;}"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;colnum&quot;: 5, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Жанр&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_5&quot;, &quot;#value#&quot;: &quot;Электроника&quot;, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;}"/>
+        <meta name="calibre:user_metadata:#sprav" content="{&quot;colnum&quot;: 4, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#sprav&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Справочники&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_4&quot;, &quot;#value#&quot;: &quot;Лампы&quot;, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 30, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;sprav&quot;}"/>
+        <meta name="calibre:user_metadata:#money" content="{&quot;colnum&quot;: 7, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#money&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Цена&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_7&quot;, &quot;#value#&quot;: null, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 26, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;money&quot;}"/>
+        <meta name="calibre:user_metadata:#no" content="{&quot;colnum&quot;: 9, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#no&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Нет&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_9&quot;, &quot;#value#&quot;: null, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 27, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;no&quot;}"/>
+        <meta name="calibre:user_metadata:#god" content="{&quot;colnum&quot;: 1, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#god&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Год&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;#value#&quot;: &quot;1948&quot;, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;god&quot;}"/>
+        <meta name="calibre:user_metadata:#serianomer" content="{&quot;colnum&quot;: 2, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#serianomer&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;№ в серии&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;#value#&quot;: &quot;1&quot;, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 28, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;serianomer&quot;}"/>
+        <meta name="calibre:user_metadata:#journal" content="{&quot;colnum&quot;: 8, &quot;#extra#&quot;: null, &quot;search_terms&quot;: [&quot;#journal&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;category_sort&quot;: &quot;value&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Журналы&quot;, &quot;is_category&quot;: true, &quot;table&quot;: &quot;custom_column_8&quot;, &quot;#value#&quot;: null, &quot;is_custom&quot;: true, &quot;is_multiple&quot;: null, &quot;is_multiple2&quot;: {}, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 24, &quot;is_csp&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;journal&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Обложка" type="cover"/>
+    </guide>
+</package>
